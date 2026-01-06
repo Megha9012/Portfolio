@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💼 Portfolio Management 
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -97,3 +98,6 @@ Portfolio Management/
 - User login & saved profiles  
 - Mobile responsive layout  
 - Resume preview before download  
+=======
+# Portfolio
+>>>>>>> c604f8a27421a8ccfeca1692228675882135bf17
