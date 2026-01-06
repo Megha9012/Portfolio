@@ -81,14 +81,6 @@ Portfolio Management/
 4. Resume can be **downloaded as PDF**  
 5. Resume can be **shared for placements or jobs**
 
----
-
-## 🎯 Use Case (Placement Focus)
-
-- College placements  
-- Internship applications  
-- Entry-level job resumes  
-- Personal portfolio creation  
 
 ---
 
@@ -99,5 +91,4 @@ Portfolio Management/
 - Mobile responsive layout  
 - Resume preview before download  
 =======
-# Portfolio
->>>>>>> c604f8a27421a8ccfeca1692228675882135bf17
+
